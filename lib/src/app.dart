@@ -1,5 +1,5 @@
-// Import flutter helper library
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' show get;
 
 const primaryColor = Color(0xFFAD1457);
 
